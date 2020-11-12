@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7b0e2561-2b56-4555-9705-54224ff840ae" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/html.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/webServers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BAITAP/HANGHOA.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BAITAP/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BAITAP/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BAITAP/src/Controller/ProductController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BAITAP/src/Model/DBConnect.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BAITAP/src/Model/Product.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BAITAP/src/Model/ProductManager.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BAITAP/src/View/add.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BAITAP/src/View/list.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BAITAP/src/View/search.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BAITAP/src/View/update.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BAITAP/vendor/autoload.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BAITAP/vendor/composer/ClassLoader.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BAITAP/vendor/composer/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BAITAP/vendor/composer/autoload_classmap.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BAITAP/vendor/composer/autoload_namespaces.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BAITAP/vendor/composer/autoload_psr4.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BAITAP/vendor/composer/autoload_real.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BAITAP/vendor/composer/autoload_static.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT_Doc_so_thanh_chu/indext.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT_In_Hinh/isosceles_triangle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT_In_Hinh/rectangle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT_In_Hinh/triangle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT_MyList_ArrayList/.idea/BT_MyList_ArrayList.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT_MyList_ArrayList/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT_MyList_ArrayList/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT_MyList_ArrayList/.idea/webServers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT_MyList_ArrayList/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT_MyList_ArrayList/MyList.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT_MyList_ArrayList/Node.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT_MyList_ArrayList/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT_PHP_Cau_Truc_Queue/.idea/BT_PHP_Cau_Truc_Queue.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT_PHP_Cau_Truc_Queue/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT_PHP_Cau_Truc_Queue/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT_PHP_Cau_Truc_Queue/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT_PHP_Cau_Truc_Queue/Node.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT_PHP_Cau_Truc_Queue/Queue.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT_PHP_Cau_Truc_Queue/indext.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT_PHP_Kham_Benh/.idea/BT_PHP_Kham_Benh.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT_PHP_Kham_Benh/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT_PHP_Kham_Benh/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT_PHP_Kham_Benh/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT_PHP_Kham_Benh/Patine.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT_PHP_Kham_Benh/Queue.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT_PHP_Kham_Benh/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT_PHP_guess_the_number(Đoán_so)/indext.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT_PHP_phan_loai_sdt/.idea/BT_PHP_phan_loai_sdt.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT_PHP_phan_loai_sdt/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT_PHP_phan_loai_sdt/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT_PHP_phan_loai_sdt/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT_PHP_phan_loai_sdt/indext.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT_PHP_sap_xep_chon/indext.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CustomerManager/CustomManager.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CustomerManager/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DAO_NGUOC_PHAN_TU_STACK/.idea/DAO_NGUOC_PHAN_TU_STACK.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DAO_NGUOC_PHAN_TU_STACK/Stack.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEMO_MVC/.idea/DEMO_MVC.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEMO_MVC/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEMO_MVC/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEMO_MVC/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEMO_MVC/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEMO_MVC/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEMO_MVC/DEMO_MVC" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEMO_QUANLY/.idea/DEMO_QUANLY.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEMO_QUANLY/DBConnect.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEMO_QUANLY/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEMO_QUANLY/orderDetail.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEMO_THUAT_TOAN/bai1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEMO_THUAT_TOAN/bai2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEMO_THUAT_TOAN/bai3.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEMO_THUAT_TOAN/bai4.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEMO_THUAT_TOAN/test.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FAN/Fan.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FAN/indext.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Find_min/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HANGHOA_MVC/.idea/HANGHOA_MVC.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HANGHOA_MVC/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HANGHOA_MVC/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HANGHOA_MVC/src/Controller/ProductController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HANGHOA_MVC/src/Model/DBConnect.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HANGHOA_MVC/src/Model/Product.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HANGHOA_MVC/src/Model/ProductManager.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HANGHOA_MVC/src/View/add.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HANGHOA_MVC/src/View/list.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HANGHOA_MVC/src/View/update.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HINHHOC2/.idea/HINHHOC2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HINHHOC2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HINHHOC2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HINHHOC2/Cicrle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HINHHOC2/Cyliner.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HINHHOC2/indext.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HinhHoc/.idea/HinhHoc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HinhHoc/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HinhHoc/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HinhHoc/Circle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HinhHoc/Cylinder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HinhHoc/Rectange.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HinhHoc/Shape.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HinhHoc/Square.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HinhHoc/indext.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hinh_Chu_Nhat/Rectange.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hinh_Chu_Nhat/indext.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IMAGE_MVC/.idea/IMAGE_MVC.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IMAGE_MVC/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IMAGE_MVC/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IMAGE_MVC/src/Controller/ProductController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IMAGE_MVC/src/Model/DBConnect.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IMAGE_MVC/src/Model/Product.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IMAGE_MVC/src/Model/ProductMode.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IMAGE_MVC/src/View/add.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IMAGE_MVC/src/View/list.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IMAGE_MVC/src/View/update.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JSON/demo-json-php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JSON2/action/create.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JSON2/data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JSON2/function.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JSON2/indext.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JSON2/view/add.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JSON2/view/edit.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LINKEDLIST/.idea/LINKEDLIST.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LINKEDLIST/LinkList.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LINKEDLIST/Node.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LINKEDLIST/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LOC_SINH_VIEN/.idea/LOC_SINH_VIEN.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LOC_SINH_VIEN/Customer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LOC_SINH_VIEN/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/.idea/MVC.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/src/Controller/StudentController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/src/Model/DBConnect.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/src/Model/Student.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/src/Model/StudentModel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/src/View/student/add.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/src/View/student/list.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/src/View/student/update.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/uploads/default.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/uploads/download.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/uploads/gai.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/vendor/autoload.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/vendor/composer/ClassLoader.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/vendor/composer/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/vendor/composer/autoload_classmap.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/vendor/composer/autoload_namespaces.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/vendor/composer/autoload_psr4.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/vendor/composer/autoload_real.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/vendor/composer/autoload_static.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ManagerMusic/.idea/ManagerMusic.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ManagerMusic/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ManagerMusic/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ManagerMusic/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ManagerMusic/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ManagerMusic/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ManagerMusic/.idea/webServers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ManagerMusic/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ManagerMusic/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ManagerMusic/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ManagerMusic/images/19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ManagerMusic/images/39.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ManagerMusic/images/Hoài_Linh.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ManagerMusic/images/banner/image-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ManagerMusic/images/banner/image-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ManagerMusic/images/banner/image-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ManagerMusic/images/banner/images-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ManagerMusic/images/banner/images-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ManagerMusic/images/hoamizi.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ManagerMusic/images/music/LamTruong.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ManagerMusic/images/music/ThanhLam.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ManagerMusic/images/music/chi-co-the-la.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ManagerMusic/images/music/hoamizi.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ManagerMusic/images/music/yenchibi.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ManagerMusic/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ManagerMusic/mp3/dalap.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ManagerMusic/mp3/giu_em_di.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ManagerMusic/mp3/h.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ManagerMusic/mp3/nangtho.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ManagerMusic/mp3/nhac.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ManagerMusic/mp3/noi_thanh_b.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ManagerMusic/mp3/vatoicungyeuem.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ManagerMusic/mp3/xedap.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ManagerMusic/src/Controller/CategoryCotroller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ManagerMusic/src/Controller/MusicController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ManagerMusic/src/Model/CategoryDB.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ManagerMusic/src/Model/DBConnect.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ManagerMusic/src/Model/MusicDB.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ManagerMusic/src/View/layouts/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ManagerMusic/src/View/layouts/listmusic.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ManagerMusic/src/View/layouts/navbar.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ManagerMusic/src/View/music/detail.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ManagerMusic/src/View/music/upload.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ManagerMusic/vendor/autoload.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ManagerMusic/vendor/composer/ClassLoader.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ManagerMusic/vendor/composer/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ManagerMusic/vendor/composer/autoload_classmap.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ManagerMusic/vendor/composer/autoload_namespaces.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ManagerMusic/vendor/composer/autoload_psr4.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ManagerMusic/vendor/composer/autoload_real.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ManagerMusic/vendor/composer/autoload_static.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Manager_students/DBConnect.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Manager_students/Delete.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Manager_students/Edit.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Manager_students/add.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Manager_students/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul2_Gan_ban_nhay/.idea/Modul2_Gan_ban_nhay.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul2_Gan_ban_nhay/Dancer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul2_Gan_ban_nhay/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul2_php_sap_xep_chon/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module2/.idea/Module2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module2/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MoveablePoint/MoveablePoint.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MoveablePoint/Point.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MoveablePoint/indext.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP_PTB2/.idea/OOP_PTB2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP_PTB2/QuadraticEquation.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP_PTB2/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PHP_BT_COUNT_WORD_STRING/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PHP_BT_Dang_Ky_Nguoi_Dung/ users.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PHP_BT_Dang_Ky_Nguoi_Dung/indext.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PHP_BT_Future_Value_Calculator/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PHP_BT_Product_Discount_Calculator/display_discount.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PHP_BT_Product_Discount_Calculator/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PHP_BT_QUEUE/Node.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PHP_BT_QUEUE/Queue.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PHP_BT_QUEUE/indext.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PHP_BT_Tong_duong_cheo_ma_tran_vuong/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PHP_BT_Validate account/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PHP_BT_Validate email/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PHP_BT_Validate số điện thoại/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PHP_BT_Validate tên của lớp học/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PHP_BT_chuyen_doi_tien_te/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PHP_BT_chuyen_tu_he_thap_phan_sang_nhi_phan/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PHP_BT_exception/.idea/PHP_BT_exception.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PHP_BT_exception/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PHP_BT_exception/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PHP_BT_exception/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PHP_BT_exception/DivideByZero.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PHP_BT_exception/baitap_exception/Caculator.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PHP_BT_exception/baitap_exception/indext.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PHP_BT_exception/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PHP_BT_kiem_tra_chuoi_doi_xung/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PHP_BT_kiem_tra_su_dung_dau_ngoac_stack/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PHP_BT_mixArray/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PHP_BT_nguoi_dung_nhap_gia_tri_khong_hop_le/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PHP_BT_nguoi_dung_nhap_vao_chi_so_khong_hop_le/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PHP_BT_so_luong_so_nguyen_to/indext.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PHP_BT_tinh_tong_cac_so_o_cot_xac_dinh/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PHP_Fresher/bai1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PHP_Fresher/bai2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PHP_THUC_HANH_REGEX/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PHP_baitap/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PHP_try_catch/DivideByZeroException.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PHP_try_catch/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POIN2D/Poind2d.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POIN2D/Poind3d.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POIN2D/indext.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Phuong_trinh_bac_hai_OOP/.idea/Phuong_trinh_bac_hai_OOP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Phuong_trinh_bac_hai_OOP/Quadraticequa.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Phuong_trinh_bac_hai_OOP/indext.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/QUAN_LY_DIEM.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Controller/StudentController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Controller/SubjectController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Model/ClassStudent.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Model/DBConnect.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Model/Point.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Model/PointModel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Model/StudentModel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Model/Students.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Model/Subject.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Model/SubjectModel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/View/addStudent.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/View/add_Point.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/View/guest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/View/listStudent.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/View/listSubject.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLySinhVien/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLySinhVien/.idea/QuanLySinhVien.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLySinhVien/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLySinhVien/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLySinhVien/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLySinhVien/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLySinhVien/QuanLySinhVien" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLySinhVien/baitapvecanvas.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLySinhVien/canvas.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLySinhVien/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLySinhVien/hiiii.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLySinhVien/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLySinhVien/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLySinhVien/js/student.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLySinhVien/js/studentManager.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Queue_array/.idea/Queue_array.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Queue_array/Queue.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Queue_array/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StopWatch/.idea/StopWatch.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StopWatch/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StopWatch/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StopWatch/StopWatch.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StopWatch/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TAMGIAC/Shape.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TAMGIAC/Triangle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TAMGIAC/indext.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../THUCHANH_MVC/.idea/THUCHANH_MVC.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../THUCHANH_MVC/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../THUCHANH_MVC/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../THUCHANH_MVC/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../THUCHANH_MVC/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../THUCHANH_MVC/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../THUCHANH_MVC/.idea/webServers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../THUCHANH_MVC/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../THUCHANH_MVC/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../THUCHANH_MVC/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../THUCHANH_MVC/src/Controller/ScoreController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../THUCHANH_MVC/src/Controller/StudentController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../THUCHANH_MVC/src/Controller/SubjectController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../THUCHANH_MVC/src/Model/DBConnect.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../THUCHANH_MVC/src/Model/Score.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../THUCHANH_MVC/src/Model/ScoreManager.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../THUCHANH_MVC/src/Model/Student.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../THUCHANH_MVC/src/Model/StudentManager.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../THUCHANH_MVC/src/Model/Subject.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../THUCHANH_MVC/src/Model/SubjectManager.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../THUCHANH_MVC/src/View/addStudent.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../THUCHANH_MVC/src/View/listStudent.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../THUCHANH_MVC/src/View/listSubject.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../THUCHANH_MVC/src/View/scores/list.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../THUCHANH_MVC/vendor/autoload.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../THUCHANH_MVC/vendor/composer/ClassLoader.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../THUCHANH_MVC/vendor/composer/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../THUCHANH_MVC/vendor/composer/autoload_classmap.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../THUCHANH_MVC/vendor/composer/autoload_namespaces.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../THUCHANH_MVC/vendor/composer/autoload_psr4.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../THUCHANH_MVC/vendor/composer/autoload_real.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../THUCHANH_MVC/vendor/composer/autoload_static.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH_ABSTRACT_INTERFACE/.idea/TH_ABSTRACT_INTERFACE.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH_ABSTRACT_INTERFACE/AbstractClass/Animal.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH_ABSTRACT_INTERFACE/Animals/Chicken.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH_ABSTRACT_INTERFACE/Animals/Tiger.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH_ABSTRACT_INTERFACE/InterfaceClass/Edible.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH_ABSTRACT_INTERFACE/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH_ArrayList_basic/ArrayList.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH_ArrayList_basic/indext.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH_Simple_dictionary/indext.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TRUONGDINH_MVC/.idea/TRUONGDINH_MVC.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TRUONGDINH_MVC/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TRUONGDINH_MVC/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TRUONGDINH_MVC/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TRUONGDINH_MVC/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TRUONGDINH_MVC/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TRUONGDINH_MVC/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TRUONGDINH_MVC/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TRUONGDINH_MVC/src/Controller/StudentController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TRUONGDINH_MVC/src/Model/DBConnect.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TRUONGDINH_MVC/src/Model/Student.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TRUONGDINH_MVC/src/Model/StudentManager.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TRUONGDINH_MVC/src/View/student/add.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TRUONGDINH_MVC/src/View/student/list.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TRUONGDINH_MVC/src/View/student/update.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TRUONGDINH_MVC/vendor/autoload.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TRUONGDINH_MVC/vendor/composer/ClassLoader.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TRUONGDINH_MVC/vendor/composer/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TRUONGDINH_MVC/vendor/composer/autoload_classmap.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TRUONGDINH_MVC/vendor/composer/autoload_namespaces.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TRUONGDINH_MVC/vendor/composer/autoload_psr4.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TRUONGDINH_MVC/vendor/composer/autoload_real.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TRUONGDINH_MVC/vendor/composer/autoload_static.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tao_doi_tuong_duy_nhat_cua_chuoi/.idea/Tao_doi_tuong_duy_nhat_cua_chuoi.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tao_doi_tuong_duy_nhat_cua_chuoi/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tao_doi_tuong_duy_nhat_cua_chuoi/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tao_doi_tuong_duy_nhat_cua_chuoi/Application.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Triển khai interface ''Resizeable&quot; cho các lớp hình học/Circle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Triển khai interface ''Resizeable&quot; cho các lớp hình học/Cylinder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Triển khai interface ''Resizeable&quot; cho các lớp hình học/Rectange.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Triển khai interface ''Resizeable&quot; cho các lớp hình học/Resizeable.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Triển khai interface ''Resizeable&quot; cho các lớp hình học/Shape.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Triển khai interface ''Resizeable&quot; cho các lớp hình học/Square.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Triển khai interface ''Resizeable&quot; cho các lớp hình học/indext.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../array_multi/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../indext.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php-product-manager/Models/Product.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php-product-manager/Server/ProductManager.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php-product-manager/indext.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php_bai_tap_kiem_tra_so_nguyen_to" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../server_time/dangnhap.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../server_time/danhsach.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../server_time/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../server_time/simple_directory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../array_function" beforeDir="false" afterPath="$PROJECT_DIR$/../array_function" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1k2ffcHWnVdNo4Pz4U5EN7X5qvp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="web.server" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/View" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/style" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7b0e2561-2b56-4555-9705-54224ff840ae" name="Default Changelist" comment="" />
+      <created>1604903710575</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604903710575</updated>
+      <workItem from="1604903711855" duration="2971000" />
+      <workItem from="1604906974118" duration="11416000" />
+      <workItem from="1604990090560" duration="16234000" />
+      <workItem from="1605024351439" duration="1650000" />
+      <workItem from="1605056337884" duration="386000" />
+      <workItem from="1605060171086" duration="111000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="458" y="108" width="439" height="598" key="#com.intellij.ide.util.MemberChooser" timestamp="1604999167584">
+      <screen x="0" y="34" width="1366" height="734" />
+    </state>
+    <state x="458" y="108" width="439" height="598" key="#com.intellij.ide.util.MemberChooser/0.34.1366.734@0.34.1366.734" timestamp="1604999167584" />
+    <state x="466" y="159" width="424" height="490" key="FileChooserDialogImpl" timestamp="1605060279161">
+      <screen x="0" y="34" width="1366" height="734" />
+    </state>
+    <state x="466" y="159" width="424" height="490" key="FileChooserDialogImpl/0.34.1366.734@0.34.1366.734" timestamp="1605060279160" />
+    <state x="440" y="106" width="515" height="596" key="NewPhpClassDialog" timestamp="1604999682256">
+      <screen x="0" y="34" width="1366" height="734" />
+    </state>
+    <state x="440" y="106" width="515" height="596" key="NewPhpClassDialog/0.34.1366.734@0.34.1366.734" timestamp="1604999682256" />
+    <state x="478" y="323" width="399" height="161" key="NewPhpFileDialog" timestamp="1605006716858">
+      <screen x="0" y="34" width="1366" height="734" />
+    </state>
+    <state x="478" y="323" width="399" height="161" key="NewPhpFileDialog/0.34.1366.734@0.34.1366.734" timestamp="1605006716858" />
+    <state x="164" y="34" width="1037" height="734" key="SettingsEditor" timestamp="1605006926399">
+      <screen x="0" y="34" width="1366" height="734" />
+    </state>
+    <state x="164" y="34" width="1037" height="734" key="SettingsEditor/0.34.1366.734@0.34.1366.734" timestamp="1605006926399" />
+  </component>
+</project>
